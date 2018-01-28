@@ -1,28 +1,15 @@
-== README
+I never used ruby on rails and language ruby before. I spent my whole weekends learning this new language. I cannot wait to write my opinions about it. It is amazing because it is much more object-oriented than any other languages I used before such as C, C++, Java, JavaScript and Python. It is more like English, which means it is easier for us to understand. More importantly, I found it has so many built-in methods for users to use. For example, when I want to change an array or find some specific elements like odd or even numbers in the array, I can simply use built-in functions. Besides, I found “class and inheritance structures” is clearer than other languages as well. I am still learning the language. I really like it.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+However, it is pretty easy to install local IDE to run it. I spent hours to install it in my mac. There is a solution to the problem. I can simply use cloud IDE like Cloud9 or Codeanywhere to run ruby on rails. Since I have installed in my mac, I still prefer to run it in my own laptop.
 
-Things you may want to cover:
+I built a social forum android app before with my teammates before. Therefore, I built this simple forum website to simulate the functions of the mobile app. Ruby is more powerful than I expected. I usually use JavaScript and p5.js to build my portfolio website. It is good for beginners to start. However, I find ruby on rails is a really powerful tool to build web applications because I can manage and customize my website more easily. It is pretty like Java, so I think it also provide guarantees like control flow and memory safety.
 
-* Ruby version
+Advantages:
+It is more natural
+It is more powerful
+It is more concise and brief
+There are so many gems and plug-ins are available for free
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Disadvantages:
+The performance is not as fast as apps written in the Java or C languages and platforms.
+The runtime speed and boot speed sometimes are slower.
