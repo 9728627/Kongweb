@@ -1,7 +1,7 @@
-<h1>Create a new post here:</h1>
+<h1>Edit post here:</h1>
 
 <% if @article.errors.any? %>
-<h2>The post can not be created because of following reasons:</h2>
+<h2>The article cannot be created because of following reasons:</h2>
 <ul>
 <% @article.errors.full_messages.each do |msg| %>
 <li>
@@ -25,7 +25,7 @@
 </p>
 
 <p>
-  <%= f.submit "Post"%>
+  <%= f.submit "Update Post"%>
 </p>
 <% end %>
 

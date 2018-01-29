@@ -1,4 +1,4 @@
-<h1>Showing selected posts</h1>
+<h1>Showing selected post:</h1>
 
 <p>
   Title: <%= @article.title %>
@@ -6,4 +6,8 @@
 
 <p>
   Description: <%= @article.description %>
+</p>
+
+<p>
+<%= link_to "back to articles", articles_path %>
 </p>
